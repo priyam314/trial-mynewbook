@@ -1,16 +1,15 @@
-# Welcome to your Jupyter Book
+# AI/ML Book
 
-This is a small sample book to give you a feel for how book content is
-structured.
+This is going to be a small book on pretty much large number of topics of Artificial Intelligence and Machine Learning.
 
 :::{note}
-Here is a note!
+Here we begin
 :::
 
 And here is a code block:
 
-```
-e = mc^2
+```python
+Hello Machine
 ```
 
 Check out the content pages bundled with this sample book to see more.
