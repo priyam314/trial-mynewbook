@@ -1,2 +1,2 @@
-## Markdown 1
+# Markdown 1
 
