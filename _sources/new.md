@@ -2,7 +2,6 @@
 
 # New 
 
-## Its new 
 
 ```{code-block} ipython3
 ---
